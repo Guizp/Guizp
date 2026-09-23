@@ -67,12 +67,12 @@ Atualmente participo da **AlphaMec Empresa Júnior**, atuando no setor de **Gest
 
 <div>
   <a href="https://www.linkedin.com/in/guilheme-simonetti/">
-    <img src="./assets/linkedin.svg" width="30">
+    <img src="./assets/linkedin.svg" width="50">
   </a>
   <a href="mailto:guilherme.simonetti@outlook.com">
-    <img src="./assets/outlook.svg" width="30">
+    <img src="./assets/outlook.svg" width="50">
   </a>
   <a href="https://github.com/Guizp">
-    <img src="./assets/github.svg" width="30">
+    <img src="./assets/github.svg" width="50">
   </a>
 </div>
