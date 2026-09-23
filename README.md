@@ -1,5 +1,7 @@
 # Opa! Eu sou o Guilherme 👋
 
+## Meus Principais Conhecimentos
+
 <img src="https://skillicons.dev/icons?i=java,kotlin,c,python,mysql,linux,azure,aws,git,github,vscode,eclipse" />
 
 ---
@@ -63,7 +65,7 @@ Projeto acadêmico desenvolvido em **Java**, aplicando conceitos de desenvolvime
 
 ## 🤝 Experiência acadêmica e extracurricular
 
-<img width="447" height="447" alt="Alphamec" src="https://github.com/user-attachments/assets/02d557df-3768-4d09-81a4-cf3fa0826669" />
+<img width="300" height="300" alt="Alphamec" src="https://github.com/user-attachments/assets/02d557df-3768-4d09-81a4-cf3fa0826669" />
 
 Atualmente participo da **AlphaMec Empresa Júnior**, atuando no setor de **Gestão de Pessoas**, contribuindo em processos seletivos, organização e trabalho em equipe.
 
@@ -71,14 +73,14 @@ Atualmente participo da **AlphaMec Empresa Júnior**, atuando no setor de **Gest
 
 ## 📫 Contato
 
+<a href="mailto:guilherme.simonetti@outlook.com">
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="30">
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/guilheme-simonetti/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30">
 </a>
 &nbsp;
 <a href="https://github.com/Guizp">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-</a>
-&nbsp;
-<a href="mailto:guilherme.simonetti@outlook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="30"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="30">
 </a>
