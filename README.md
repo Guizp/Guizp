@@ -1,6 +1,6 @@
-# Olá! Eu sou o Guilherme 👋
+# Opa! Eu sou o Guilherme 👋
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,c,python,mysql,linux,aws,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,c,python,mysql,linux,azure,aws,git,github,vscode,eclipse" />
 
 ---
 
