@@ -8,6 +8,7 @@
 
 📖 Gosto de aprender novas tecnologias e transformar conhecimentos em projetos práticos.
 
+---
 
 ## 🛠️ Tecnologias e conhecimentos
 
@@ -43,6 +44,8 @@
 - Análise de Dados
 - Linux e Helpdesk
 
+---
+
 ## 🚀 Projetos
 
 ### 📚 TeachStation
@@ -54,6 +57,7 @@ Aplicação Android desenvolvida com **Kotlin**, utilizando **Firebase Firestore
 ### 🛒 E-commerce
 Projeto acadêmico desenvolvido em **Java**, aplicando conceitos de desenvolvimento web e banco de dados.
 
+---
 
 ## 🤝 Experiência acadêmica e extracurricular
 
@@ -61,17 +65,18 @@ Projeto acadêmico desenvolvido em **Java**, aplicando conceitos de desenvolvime
 
 Atualmente participo da **AlphaMec Empresa Júnior**, atuando no setor de **Gestão de Pessoas**, contribuindo em processos seletivos, organização e trabalho em equipe.
 
+---
 
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/guilheme-simonetti/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="30">
+  <img src="./assets/linkedin.svg" width="30">
 </a>
 &nbsp;
 <a href="mailto:guilherme.simonetti@outlook.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftoutlook.svg" width="30">
+  <img src="./assets/outlook.svg" width="30">
 </a>
 &nbsp;
 <a href="https://github.com/Guizp">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="30">
+  <img src="./assets/github.svg" width="30">
 </a>
