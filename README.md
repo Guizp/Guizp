@@ -3,11 +3,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,c,python,mysql,linux,azure,aws,git,github,vscode,eclipse" />
 
-
-💻 Tenho interesse em **Desenvolvimento, Cloud, Infraestrutura e Dados**.
-
-📖 Gosto de aprender novas tecnologias e transformar conhecimentos em projetos práticos.
-
+<img width="5184" height="3456" alt="pexels-mecanbay-10725897" src="https://github.com/user-attachments/assets/66e51819-e3c6-48b8-a3e1-b10c64749af7" />
 
 ## 🛠️ Tecnologias e conhecimentos
 
