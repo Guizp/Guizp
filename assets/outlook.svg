@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect x="22" y="10" width="32" height="44" rx="5" fill="#0078D4"/>
+<rect x="8" y="18" width="31" height="31" rx="4" fill="#106EBE"/>
+<path d="M8 23l15.5 11L39 23v-1H8z" fill="#fff"/>
+<path d="M8 24v20l15.5-11L39 44V24L23.5 35z" fill="#fff" opacity=".9"/>
+<text x="40.5" y="37" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#fff">O</text>
+</svg>
