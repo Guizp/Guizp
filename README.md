@@ -19,6 +19,7 @@
 
 ### ☁️ Infraestrutura e Cloud
 - Linux
+- Azure
 - AWS
 - Podman
 - OpenShift
